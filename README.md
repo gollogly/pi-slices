@@ -2,7 +2,7 @@
 
 ## Pi Starter Projects
 
-### Remote Access Project
+### Remote Access Project using VNC
 
 * On your Pi (using a monitor or via SSH), install the TightVNC package
 
