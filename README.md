@@ -30,7 +30,7 @@ sudo apt-get install xtightvncviewer
 ```
 
 
-TODO
+# TODO
 
 * Turn this into a script and run at boot
 
