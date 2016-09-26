@@ -18,7 +18,7 @@ Hook up to a motor board to control the wheels
 
 ## Step 3: Connect Pi and other sensors
 
-TODO Hook up a Pi Zero to control the other aspects
+TODO Hook up a Pi Zero to control as main processing unit and control of other cars components 
 
 ## Step 4,5,6,7 TODO
 * Add camera and Tensorflow for AI and image recongnition
