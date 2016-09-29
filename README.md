@@ -1,5 +1,7 @@
 # pi-slices
 
+See Project Board for progress [[progress | projects ]]
+
 ## Pi Starter Projects
 
 ### vnc-starter (Remote Access Project using VNC)
