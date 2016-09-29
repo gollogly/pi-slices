@@ -1,6 +1,6 @@
 # pi-slices
 
-See Project Board for progress [[progress | projects ]]
+See Project Board for [progress](../../projects)
 
 ## Pi Starter Projects
 
