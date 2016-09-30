@@ -2,6 +2,11 @@
 
 This is a DIY project for a Pi Car hobbyist (estimated build time)
 
+## Architecture
+
+<img src="https://d3ansictanv2wj.cloudfront.net/Figure_1-1ad2b142be6ca8641212c7579ab4f95d.jpg" height="400">
+
+
 ## Step 1: Get a Chassis and Build it (2-4 hours)
 
 Remote Car usin Sain smart chassis and can be bought on Amazon or SainSmart website http://www.sainsmart.com/ for about £6
