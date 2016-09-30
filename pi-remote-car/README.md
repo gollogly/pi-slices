@@ -36,5 +36,7 @@ TODO Hook up a Pi Zero to control as main processing unit and control of other c
     ./install.sh
 ```
 * Add Web Interface
+ * install Nginx
+ * Build a simple Python webserver
 * Add Sensors for Collision avoidance
 * Add Temperature Sensors to follow heat signatures
