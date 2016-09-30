@@ -29,11 +29,12 @@ TODO Hook up a Pi Zero to control as main processing unit and control of other c
 
 ## Step 4,5,6,7 TODO
 * Add camera and Tensorflow for AI and image recongnition
-
-    >git clone https://github.com/silvanmelchior/RPi_Cam_Web_Interface.git
-    >cd RPi_Cam_Web_Interface
-    >chmod u+x *.sh
-    >./install.sh
+```
+    git clone https://github.com/silvanmelchior/RPi_Cam_Web_Interface.git
+    cd RPi_Cam_Web_Interface
+    chmod u+x *.sh
+    ./install.sh
+```
 * Add Web Interface
 * Add Sensors for Collision avoidance
 * Add Temperature Sensors to follow heat signatures
