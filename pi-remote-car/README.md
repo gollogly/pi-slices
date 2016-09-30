@@ -39,4 +39,5 @@ TODO Hook up a Pi Zero to control as main processing unit and control of other c
  * install Nginx
  * Build a simple Python webserver
 * Add Sensors for Collision avoidance
+ <img src ="http://www.raspberrypi-spy.co.uk/wp-content/uploads/2012/12/Ultrasonic-Sensor-03.jpg" height="240">
 * Add Temperature Sensors to follow heat signatures
