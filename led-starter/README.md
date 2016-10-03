@@ -15,7 +15,7 @@ Add jumper wires to breadboard
 
 * Make the file executable 
 
-```chmod +x```
+```chmod +x led.py```
 
 * Run led.py script as root
 
