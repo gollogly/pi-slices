@@ -6,6 +6,6 @@ python:
 # command to install dependencies
 install: "pip install -r requirements.txt"
 # command to run tests
-script: coverage run
+script: coverage run --source=led-starter led.py
 after_success:
   coveralls
