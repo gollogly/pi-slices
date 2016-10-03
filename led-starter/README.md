@@ -12,10 +12,10 @@ Add jumper wires to breadboard (GPIO should match the program for example 17 or 
 
 ## Step 3 Run the Script
 
-1. Make the file executable 
+* Make the file executable 
 
 ```chmod +x```
 
-2. Run led.py script as root
+* Run led.py script as root
 
 ```sudo pthon led.py```
