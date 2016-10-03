@@ -1,4 +1,4 @@
-## Simple PLED ON OFF Example
+## Simple PLED ON/OFF Example
 
 ## Step 1 Set up LED on Breadboard / Pi
 
