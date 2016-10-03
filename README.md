@@ -1,5 +1,7 @@
 # pi-slices
 
+[![Build Status](https://travis-ci.org/martingollogly/pi-slices.svg?branch=master)](https://travis-ci.org/martingollogly/pi-slices)
+
 ## Pi Starter Projects
 
 ### led-starter 
