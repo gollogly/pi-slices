@@ -4,7 +4,9 @@ python:
 #  - "3.5"
 #  - "nightly" # currently points to 3.6-dev
 # command to install dependencies
-install: "pip install -r requirements.txt"
+install: 
+  - "pip install -r requirements.txt"
+  - "python led-starter/led.py"
 # command to run tests
 script: coverage run --source=led-starter,vnc-starter,pi-remote-car
 after_success:
