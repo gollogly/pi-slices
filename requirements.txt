@@ -1,0 +1,6 @@
+PyYAML
+requests
+coverage==4.0.3
+six
+sh
+RPi.GPIO
