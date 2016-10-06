@@ -20,7 +20,7 @@ Hook up to a motor board to control the wheels.
 
 Starting with the a breadboard to write the motor functions
 
-<img src="motor-cricuit-test-setup.png" height="240" >
+<img src="raspberry-pi-connect-motor-board.png" height="240" >
 
 ## Step 3: Connect Pi and other sensors
 
