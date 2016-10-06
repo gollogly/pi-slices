@@ -21,7 +21,11 @@ Remote Car usin Sain smart chassis and can be bought on Amazon or SainSmart webs
 
 ## Step 2: Wire up (2-4 hours)
 
-Hook up to a motor board to control the wheels
+Hook up to a motor board to control the wheels. 
+
+Starting with the a breadboard to write the motor functions (with design from fritzing)
+
+<img src="raspberry-pi-connect-motor-board.png" height="240" >
 
 ## Step 3: Connect Pi and other sensors
 
