@@ -18,7 +18,7 @@ Remote Car usin Sain smart chassis and can be bought on Amazon or SainSmart webs
 
 Hook up to a motor board to control the wheels. 
 
-Starting with the a breadboard to write the motor functions
+Starting with the a breadboard to write the motor functions (with design from fritzing)
 
 <img src="raspberry-pi-connect-motor-board.png" height="240" >
 
