@@ -1,6 +1,6 @@
 # pi-slices
 
-<img src="pi-slices-logo.png"> See Project Board for [progress](../../projects)
+<img src="pi-slices-logo-transparent.png"> See Project Board for [progress](../../projects)
 
 ## Pi Starter Projects
 
