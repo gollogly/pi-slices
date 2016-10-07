@@ -2,7 +2,9 @@
 
 <img src="pi-slices-logo-transparent.png"> A collection of Starter Projects for the raspberry PI
 
-See Project Board for [progress](../../projects) [![Build Status](https://travis-ci.org/martingollogly/pi-slices.svg?branch=master)](https://travis-ci.org/martingollogly/pi-slices)
+See Project Board for [progress](../../projects) 
+
+Note Raspberry PI tests mneed to run on a Pi [![Build Status](https://travis-ci.org/martingollogly/pi-slices.svg?branch=master)](https://travis-ci.org/martingollogly/pi-slices)
 
 
 ## Pi Starter Projects
