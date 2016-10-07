@@ -1,6 +1,9 @@
 # pi-slices
 
-[![Build Status](https://travis-ci.org/martingollogly/pi-slices.svg?branch=master)](https://travis-ci.org/martingollogly/pi-slices)
+<img src="pi-slices-logo-transparent.png"> A collection of Starter Projects for the raspberry PI
+
+See Project Board for [progress](../../projects)
+
 
 ## Pi Starter Projects
 
@@ -19,6 +22,4 @@ Remote Access Project using VNC
 Remote Controled car via command line and Web
 
 ### ai-car (AI Car)
-
-Remote Control Car with camera, ultrasonic sensors and tensorflow
 
