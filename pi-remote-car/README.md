@@ -27,7 +27,15 @@ Starting with the a breadboard to write the motor functions (with design from fr
 TODO Hook up a Pi Zero to control as main processing unit and control of other cars components 
 
 ## Step 4,5,6,7 TODO
-* Add camera and Tensorflow for AI and image recongnition
+* Add camera
+
+  ```
+  git clone https://github.com/silvanmelchior/RPi_Cam_Web_Interface.git
+  cd RPi_Cam_Web_Interface
+  chmod u+x *.sh
+  ./install.sh
+  ```
+* Add Tensorflow for AI and image recongnition
 * Add Web Interface
 * Add Sensors for Collision avoidance
 * Add Temperature Sensors to follow heat signatures
