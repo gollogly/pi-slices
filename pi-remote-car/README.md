@@ -1,6 +1,6 @@
 # Pi Remote CAR
 
-This is a DIY project for a Pi Car hobbyist (estimated build time)
+This is a DIY project for a Pi Car hobbyist (estimated build time - 1 week)
 
 ## Architecture
 
