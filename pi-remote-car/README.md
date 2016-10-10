@@ -38,4 +38,5 @@ TODO Hook up a Pi Zero to control as main processing unit and control of other c
 * Add Tensorflow for AI and image recongnition
 * Add Web Interface
 * Add Sensors for Collision avoidance
+  https://github.com/fivdi/pigpio
 * Add Temperature Sensors to follow heat signatures
