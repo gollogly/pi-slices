@@ -22,6 +22,8 @@ Starting with the a breadboard to write the motor functions (with design from fr
 
 <img src="raspberry-pi-connect-motor-board.png" height="240" >
 
+See https://javatutorial.net/raspberry-pi-control-motor-speed
+
 ## Step 3: Connect Pi and other sensors
 
 TODO Hook up a Pi Zero to control as main processing unit and control of other cars components 
