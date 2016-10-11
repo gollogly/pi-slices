@@ -23,6 +23,7 @@ Starting with the a breadboard to write the motor functions (with design from fr
 <img src="raspberry-pi-connect-motor-board.png" height="240" >
 
 See https://javatutorial.net/raspberry-pi-control-motor-speed
+See https://www.youtube.com/watch?v=LwEBB6v559I
 
 ## Step 3: Connect Pi and other sensors
 
