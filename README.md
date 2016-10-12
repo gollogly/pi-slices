@@ -25,3 +25,9 @@ Remote Controled car via command line and Web
 
 ### ai-car (AI Car)
 
+
+
+## Useful Links
+
+* Learn about Resistors (What the colours and numbers all mean)
+https://learn.sparkfun.com/tutorials/resistors
