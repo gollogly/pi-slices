@@ -29,18 +29,17 @@ See https://www.youtube.com/watch?v=LwEBB6v559I
 
 TODO Hook up a Pi Zero to control as main processing unit and control of other cars components 
 
-## Step 4
-* Add camera which also comes with a web interface
+## Step 4: Add camera and Web interface
 
-  ```
+The following is the best link I've come across and comes complete with Web interface and configuration screen for camera. 
+```
   git clone https://github.com/silvanmelchior/RPi_Cam_Web_Interface.git
   cd RPi_Cam_Web_Interface
   chmod u+x *.sh
   ./install.sh
   ```
   
-## Step 5
-* Add Sensors for Collision avoidance
+## Step 5: Add Sensors for Collision avoidance
 
 The following is the best link I've come across. 
 
