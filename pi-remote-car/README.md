@@ -29,8 +29,8 @@ See https://www.youtube.com/watch?v=LwEBB6v559I
 
 TODO Hook up a Pi Zero to control as main processing unit and control of other cars components 
 
-## Step 4,5,6,7 TODO
-* Add camera
+## Step 4
+* Add camera which also comes with a web interface
 
   ```
   git clone https://github.com/silvanmelchior/RPi_Cam_Web_Interface.git
@@ -38,8 +38,20 @@ TODO Hook up a Pi Zero to control as main processing unit and control of other c
   chmod u+x *.sh
   ./install.sh
   ```
-* Add Tensorflow for AI and image recongnition
-* Add Web Interface
+  
+## Step 5
 * Add Sensors for Collision avoidance
+
+The following is the best link I've come across. 
+
+  https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi
+
+> Note: I've tried this out and currently it's partially working but the sensor readings are not consistent and need some debugging
+
+
+## Step 6,7,8 TODO 
+* Add Tensorflow for AI and image recongnition
+* Add Web Interface for Movement
+
   https://github.com/fivdi/pigpio
 * Add Temperature Sensors to follow heat signatures
