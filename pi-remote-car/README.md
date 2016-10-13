@@ -47,6 +47,17 @@ The following is the best link I've come across.
 
 > Note: I've tried this out and currently it's partially working but the sensor readings are not consistent and need some debugging
 
+ ``` 
+   cd distance_sensor
+   chmod +x distanct.py
+   sudo python distance.py
+ 
+  ```
+  
+### TODO: 
+* Add loop to keep sending distane
+* Add condition to only register when threshold is reached (e.g. 10 cms)
+* Test with multiple sensors and refactor code
 
 ## Step 6,7,8 TODO 
 * Add Tensorflow for AI and image recongnition
