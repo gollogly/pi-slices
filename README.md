@@ -4,7 +4,7 @@
 
 See Project Board for [progress](../../projects) 
 
-> Note I discovered Raspberry PI tests mneed to run on a Pi :( [![Build Status](https://travis-ci.org/martingollogly/pi-slices.svg?branch=master)](https://travis-ci.org/martingollogly/pi-slices)
+> Note I discovered Raspberry PI tests need to run on an actuall Pi which doesn't make automated testing as easy at the moment :( [![Build Status](https://travis-ci.org/martingollogly/pi-slices.svg?branch=master)](https://travis-ci.org/martingollogly/pi-slices)
 
 
 ## Pi Starter Projects
